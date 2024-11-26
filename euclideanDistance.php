@@ -22,5 +22,5 @@ for($i=0;$i<count($points);$i++){
 //  echo "  ";
 // }
  $minDistance=min($distances);
- echo "Minimum mesafe:";
+ echo "Minimum distance:";
  echo $minDistance;
